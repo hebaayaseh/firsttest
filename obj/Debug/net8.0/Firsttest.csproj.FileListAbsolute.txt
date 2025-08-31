@@ -1,0 +1,14 @@
+C:\Users\hebah\source\repos\Firsttest\Firsttest\bin\Debug\net8.0\Firsttest.exe
+C:\Users\hebah\source\repos\Firsttest\Firsttest\bin\Debug\net8.0\Firsttest.deps.json
+C:\Users\hebah\source\repos\Firsttest\Firsttest\bin\Debug\net8.0\Firsttest.runtimeconfig.json
+C:\Users\hebah\source\repos\Firsttest\Firsttest\bin\Debug\net8.0\Firsttest.dll
+C:\Users\hebah\source\repos\Firsttest\Firsttest\bin\Debug\net8.0\Firsttest.pdb
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.AssemblyInfoInputs.cache
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.AssemblyInfo.cs
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.csproj.CoreCompileInputs.cache
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.dll
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\refint\Firsttest.dll
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.pdb
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.genruntimeconfig.cache
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\ref\Firsttest.dll
