@@ -12,3 +12,4 @@ C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\refint\Firsttes
 C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.pdb
 C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.genruntimeconfig.cache
 C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\ref\Firsttest.dll
+C:\Users\hebah\source\repos\Firsttest\Firsttest\obj\Debug\net8.0\Firsttest.sourcelink.json

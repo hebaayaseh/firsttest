@@ -1,5 +1,8 @@
 ﻿namespace Firsttest
 {
+
+    public class notmain() { }
+
     internal class Program
     {
         static void Main(string[] args)
@@ -53,6 +56,7 @@
             foreach(string s in ans)
             {
                 Console.WriteLine(s);
+                Console.WriteLine(s);
             }
 
 
@@ -64,7 +68,7 @@
 
 
             var u = new DoIt();
-            u = 5; // you can’t change the data type , only at first
+            //u = 5; // you can’t change the data type , only at first
 
             dynamic u1 = new DoIt();
             u1 = 5;
